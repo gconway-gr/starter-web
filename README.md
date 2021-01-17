@@ -14,3 +14,6 @@ Adding GIT Comparisons Lectures
 
 ##GITHub Comparison
 Comparing with repo
+
+## Contribution
+Fort the repo
