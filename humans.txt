@@ -3,8 +3,10 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Conway -- <role> -- <twitter>
+    Team
 
+    
 # THANKS
 
     <name>
