@@ -4,6 +4,7 @@
 # TEAM
 
     Conway -- <role> -- <twitter>
+    Develop
     Team
 
     
@@ -14,6 +15,6 @@
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3, Angular
-    jQuery, Modernizr, Machine Learning, AWS
+    jQuery, Modernizr, XJAX,
 
     modified on develop branch
