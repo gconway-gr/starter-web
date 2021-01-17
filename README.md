@@ -8,3 +8,9 @@ A lot of lectures
 ## Purpose
 
 Sample website with plenty of files for demos
+
+## GIT Comparisons
+Adding GIT Comparisons Lectures
+
+##GITHub Comparison
+Comparing with repo
