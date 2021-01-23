@@ -10,7 +10,7 @@
     
 # THANKS
 
-    <name>
+    Some new text here
 
 # TECHNOLOGY COLOPHON
 
