@@ -11,6 +11,7 @@ Sample website with plenty of files for demos
 
 ## GIT New Text
 Adding text under Master changes
+More changes under master
 
 ## GIT Comparisons
 Adding GIT Comparisons Lectures
