@@ -1,8 +1,9 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
-
 Some text modifying before rebase
+
+Some text here inserted to test conflicts with feature branch`
 
 # TEAM
 
