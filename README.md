@@ -9,6 +9,9 @@ A lot of lectures
 
 Sample website with plenty of files for demos
 
+## GIT New Text
+Adding text under Master changes
+
 ## GIT Comparisons
 Adding GIT Comparisons Lectures
 
