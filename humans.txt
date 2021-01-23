@@ -1,9 +1,10 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
-
 Doing some change sin local
 Some text modifying before rebase
+
+Some text here inserted to test conflicts with feature branch`
 
 # TEAM
 
