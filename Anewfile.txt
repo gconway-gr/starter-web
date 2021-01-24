@@ -1,2 +1,4 @@
 Adding new file in Git Project
 File not trakced
+
+Adding stash now brnach

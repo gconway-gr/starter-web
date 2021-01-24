@@ -26,3 +26,5 @@ dding important notes on git stash
     jQuery, Modernizr, XJAX,
 
     modified on develop branch
+
+    AWS solution architect
