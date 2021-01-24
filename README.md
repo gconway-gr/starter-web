@@ -15,6 +15,7 @@ More changes under master
 
 ## GIT Comparisons
 Adding GIT Comparisons Lectures
+Adding new lectures on Stash
 
 ##GITHub Comparison
 Comparing with repo
